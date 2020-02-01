@@ -9,5 +9,12 @@ COMANDOS PARA INCLUIR E ALTERAR NO GIT E GIT HUB
 6° CMD: git status (dê o comando para ver o que modificou)
 7ª CMD: git remote add origin
 8° CMD: git push –u origin master
-Logo a seguir de F5 no git hub
+F5 no git hub
+Para atualização:..........	
+CMD: git Status
+CMD: git add  –A 
+CMD: git commit –m “INCLUIR ALGUMA COISA”
+CMD: git push
+F5
+
 
