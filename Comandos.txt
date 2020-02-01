@@ -1,1 +1,13 @@
 Vamos aprender os comandos
+
+COMANDOS PARA INCLUIR E ALTERAR NO GIT E GIT HUB
+1° - COMANDO: ls
+2° - COMANDO: git init 
+3° - CMD: git add  –A
+4°- CMD: git Status
+5° CMD: git commit –m “ adicionando…..algum texto”	
+6° CMD: git status (dê o comando para ver o que modificou)
+7ª CMD: git remote add origin
+8° CMD: git push –u origin master
+Logo a seguir de F5 no git hub
+
